@@ -1,5 +1,5 @@
-#!/usr/bin/env bash
-
+# !/usr/bin/env bash
+#!/bin/sh
 ##############################################################################
 ##
 ##  Gradle start up script for UN*X
