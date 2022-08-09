@@ -1,6 +1,4 @@
-# !/usr/bin/env bash
-# !/usr/bin/sh -c "apk add --no-cache bash"
-# !/bin/sh
+#!/usr/bin/env bash
 
 ##############################################################################
 ##
